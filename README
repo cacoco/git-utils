@@ -15,5 +15,6 @@ git-switch            # like checkout, but with auto-stash
 git-wip               # store a current "work in progress" commit
 git-unwip             # break a work in progress commit bringing the changes back to unstaged
 git-wtf               # show the current status of your git repository, including feature branches
+git-publish-branch	  # publish local branch to remote repo and track the remote. also easily deletes remotes
 
 Many of these scripts come from http://github.com/jwiegley/git-scripts
